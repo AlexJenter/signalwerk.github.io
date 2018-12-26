@@ -1,6 +1,0 @@
-# dependencies
-/node_modules
-
-# production
-travis/.ssh/id_rsa
-/build
